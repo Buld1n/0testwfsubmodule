@@ -1,0 +1,9 @@
+[submodule "wanos/tetWF2"]
+	path = wanos/tetWF2
+	url = git@github.com:Buld1n/tetWF2.git
+[submodule "wanos/testWF"]
+	path = wanos/testWF
+	url = git@github.com:Buld1n/testWF.git
+[submodule "wanos/CommonTestWf"]
+	path = wanos/CommonTestWf
+	url = git@github.com:Buld1n/CommonTestWf.git
