@@ -1,5 +1,6 @@
 {
     "workflow_environment":"SimStack",
+    "title": "TEST",
     "description": "TEST",
     "authors": [
 	    "A. Buldin"
