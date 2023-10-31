@@ -1,0 +1,14 @@
+{
+    "workflow_environment":"SimStack",
+    "description": "TEST",
+    "authors": [
+	    "A. Buldin"
+    ],
+    "logo": "TensileTest_Workflow.png",
+    "keywords": [
+        "SimStack",
+        "WaNo",
+        "template",
+	    "TensileTest"
+    ]
+}
